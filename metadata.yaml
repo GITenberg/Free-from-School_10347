@@ -1,0 +1,23 @@
+_repo: Free-from-School_10347
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alvares, Rahul
+    gutenberg_agent_id: '3481'
+    url: http://www.gutenberg.org/2009/agents/3481
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10347'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Natural history -- India -- Anecdotes'
+- !lcc 'QH'
+- !lcsh 'Alvares, Rahul'
+- GITenberg
+title: Free from School
+url: http://www.gutenberg.org/ebooks/10347
